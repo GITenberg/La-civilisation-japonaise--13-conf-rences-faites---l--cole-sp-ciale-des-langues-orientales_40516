@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40671'
     url: http://www.gutenberg.org/2009/agents/40671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40516#La-civilisation-japonaise--13-conf-rences-faites---l--cole-sp-ciale-des-langues-orientales
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2012-08-16'
 gutenberg_type: Text
